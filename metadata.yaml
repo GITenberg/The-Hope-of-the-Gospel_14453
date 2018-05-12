@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/127
     wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
 description: A collection of 12 sermons on New Testament texts.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14453#The-Hope-of-the-Gospel
 gutenberg_issued: '2004-12-24'
 gutenberg_type: Text
 identifiers:
